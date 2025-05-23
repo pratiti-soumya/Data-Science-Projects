@@ -21,6 +21,21 @@ Analyze data from The Movie Database (TMDb) to explore patterns in movie popular
 
 ---
 
+### 2. Keyword Search vs Sales Analysis 📈  
+Explored the relationship between online search trends and product sales using Kaggle sales data and **Google Trends API** (via `pytrends`).
+
+📄 [View Notebook](./Keyword_Search_vs_Sales_Analysis.ipynb)
+
+#### Key Highlights:
+- Pulled real-time trend data from **Google Trends API** for the keyword **"laptops"**
+- Combined it with weekly product sales data from **Kaggle**
+- Investigated whether spikes in search interest align with sales patterns across categories
+- Explored **seasonal trends** by aggregating monthly averages
+- Created visualizations to support two research questions
+
+
+---
+
 ### ⏳ Upcoming Projects
 
 | Project | Status | Description |
@@ -33,8 +48,5 @@ Analyze data from The Movie Database (TMDb) to explore patterns in movie popular
 - Python (Jupyter Notebook)
 - pandas, numpy
 - matplotlib, seaborn
-- PostgreSQL (for future SQL projects)
 
 ---
-
-
