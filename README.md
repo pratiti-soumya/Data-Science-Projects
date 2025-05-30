@@ -1,6 +1,6 @@
 # 🧠 Data Science Projects Portfolio
 
-Welcome to my personal portfolio of data science projects! 
+Welcome to my personal portfolio of data science projects!
 
 More projects will be added regularly as I explore new datasets, apply advanced techniques, and build toward more complex models.
 
@@ -33,14 +33,30 @@ Explored the relationship between online search trends and product sales using K
 - Explored **seasonal trends** by aggregating monthly averages
 - Created visualizations to support two research questions
 
-
 ---
 
-### ⏳ Upcoming Projects
+### 3. Loan Data Visualization with Matplotlib & Seaborn 💵📊  
+An in-depth exploratory and explanatory analysis of Prosper loan data, focused on understanding how credit score, employment status, and income level influence borrower interest rates.
 
-| Project | Status | Description |
-|--------|--------|-------------|
+📁 [Project Folder](./Loan_Data_Insights/)
 
+#### Files:
+- `Loan_Data_EDA.ipynb`: Univariate, bivariate, and multivariate exploratory analysis using histograms, scatter plots, facet grids, and correlation heatmaps
+- `Loan_Data_Insights_Presentation.ipynb`: A refined explanatory notebook presenting 3 key visualizations supported by clean, narrative insights
+- `prosperLoanData.csv`, `prosperdata_final.csv`: Raw and cleaned versions of the Prosper dataset
+
+#### Key Highlights:
+- Cleaned 81-column dataset, handled missing values strategically and selected meaningful features
+- Converted date fields to datetime format for accurate parsing
+- Visualized the distribution of loan status, interest rates, and loan amounts
+- Investigated key relationships:
+  - **Interest Rate vs Credit Score by Employment Status** (line plot)
+  - **Interest Rate vs Employment Status by Loan Status** (clustered bar chart)
+  - **Correlation Heatmap** showing weak correlation between income and borrower rate
+- **Findings Summary**:
+  - Credit scores have a strong impact on interest rates
+  - Employment status plays a secondary but visible role
+  - Income range shows very little direct influence on interest rates
 
 ---
 
@@ -48,5 +64,3 @@ Explored the relationship between online search trends and product sales using K
 - Python (Jupyter Notebook)
 - pandas, numpy
 - matplotlib, seaborn
-
----
