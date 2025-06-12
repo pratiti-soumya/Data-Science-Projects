@@ -1,11 +1,10 @@
-readme_content = """
-# 📊 Keyword Search vs Sales Analysis
+# Keyword Search vs Sales Analysis
 
 In this project, I analyzed whether public interest in a specific keyword—**“laptops”**—had any relationship with **product sales trends** in different categories like technology, furniture, and office supplies.
 
 I conducted the full end-to-end data wrangling process using real-world datasets and applied exploratory analysis to uncover trends and answer business questions.
 
-## 🔍 Project Objective
+## Project Objective
 
 My main goal was to understand:
 
@@ -15,7 +14,7 @@ My main goal was to understand:
 
 ---
 
-## 🧩 Datasets and Gathering Methods
+## Datasets and Gathering Methods
 
 I combined **two datasets** gathered using different methods:
 
@@ -24,7 +23,7 @@ I combined **two datasets** gathered using different methods:
 
 ---
 
-## 🧹 Data Wrangling Steps
+## Data Wrangling Steps
 
 I applied the following data cleaning and tidying steps:
 
@@ -70,7 +69,7 @@ I applied the following data cleaning and tidying steps:
 
 ---
 
-## 📦 Files Included
+## Files Included
 
 - `Keyword_Search_vs_Sales_Analysis.ipynb` – Full Jupyter Notebook with code and charts
 - `cleaned_merged_sales_trends.csv` – Final cleaned dataset
@@ -79,7 +78,7 @@ I applied the following data cleaning and tidying steps:
 
 ---
 
-## 🧠 Insights and Conclusions
+## Insights and Conclusions
 
 This project demonstrates that **search interest data can serve as a useful leading indicator for tech sales**. It also shows how seasonal patterns align with consumer interest.
 
@@ -92,12 +91,5 @@ From a business standpoint, **search trend monitoring can guide inventory planni
 I handled all steps from data gathering to final analysis independently. This notebook demonstrates a full real-world data wrangling pipeline, and I’m proud of completing this from scratch.
 
 📂 View the full notebook and files here:  
-👉 [GitHub Repository Link](https://github.com/your-username/your-repo)
+👉 [GitHub Repository Link](https://github.com/pratiti-soumya/Data-Science-Projects/tree/main/Keyword_Search_vs_Sales_Analysis)
 """
-
-# Save to a markdown file
-readme_path = "/mnt/data/README_Keyword_Search_vs_Sales.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
