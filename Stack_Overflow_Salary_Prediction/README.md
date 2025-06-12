@@ -18,7 +18,7 @@ This project explores the challenge of predicting a developer's salary (`Convert
 ## ❓ Business Questions & Insights
 
 ### 1. **Does education level significantly affect a developer’s salary?**
-**Insight:** Yes — developers with higher degrees (Master’s, PhD, Professional) generally earn more. However, there are notable exceptions where developers with lower formal education (e.g. self-taught) still report high salaries.
+**Insight:** Yes, developers with higher degrees (Master’s, PhD, Professional) generally earn more. However, there are notable exceptions where developers with lower formal education (e.g. self-taught) still report high salaries.
 
 ---
 
