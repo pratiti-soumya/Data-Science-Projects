@@ -9,7 +9,7 @@ I regularly add new projects as I explore different datasets, apply advanced tec
 ### 1. Investigate a Dataset – TMDb Movie Data  
 I analyzed data from The Movie Database (TMDb) to explore patterns in movie popularity, revenue, and runtime.
 
-📄 [View Notebook](./Investigate_a_Dataset.ipynb)
+📁 [View Project](./Investigate_Movies_Dataset)
 
 #### Key Highlights:
 - I cleaned and filtered the movie metadata to handle missing and irrelevant values  
@@ -27,7 +27,7 @@ I analyzed data from The Movie Database (TMDb) to explore patterns in movie popu
 ### 2. Keyword Search vs Sales Analysis  
 I explored the relationship between online search trends and product sales using Kaggle sales data and real-time search data from the Google Trends API.
 
-📄 [View Notebook](./Keyword_Search_vs_Sales_Analysis.ipynb)
+📁 [View Project](./Keyword_Search_vs_Sales_Analysis)
 
 #### Key Highlights:
 - I pulled Google Trends data for the keyword "laptops"  
@@ -47,10 +47,10 @@ I explored the relationship between online search trends and product sales using
 
 ---
 
-### 3. Loan Data Visualization with Matplotlib and Seaborn 💵📊  
+### 3. Loan Data Visualization with Matplotlib and Seaborn 📊  
 I conducted an exploratory and explanatory analysis of Prosper loan data to understand how borrower interest rates vary with credit score, employment status, and income.
 
-📁 [Project Folder](./Loan_Data_Insights/)
+📁 [View Project](./Loan_Data_Insights/)
 
 #### Files:
 `Loan_Data_EDA.ipynb` – My exploratory notebook with univariate, bivariate, and multivariate analysis  
@@ -73,10 +73,10 @@ I conducted an exploratory and explanatory analysis of Prosper loan data to unde
 
 ---
 
-### 4. Stack Overflow Salary Prediction 💼📈  
+### 4. Stack Overflow Salary Prediction 📈  
 I built a regression model using the Stack Overflow 2024 Developer Survey to predict annual salaries based on developer experience, education, and job profile.
 
-📄 [View Notebook](./stackoverflow_salary_prediction.ipynb)
+📁 [View Project](./Stack_Overflow_Salary_Prediction)
 
 #### Key Highlights:
 - I selected and cleaned relevant features like education, country, years of experience, and employment  
@@ -94,7 +94,7 @@ I built a regression model using the Stack Overflow 2024 Developer Survey to pre
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 Python (Jupyter Notebook)  
 pandas, numpy  
 matplotlib, seaborn  
