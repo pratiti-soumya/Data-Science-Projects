@@ -37,13 +37,14 @@ I used visualizations to explore two key research questions
 
 #### Findings:
 Does online search interest in "laptops" affect sales?
-→ Yes, especially in the technology category, where spikes in search interest were followed by higher sales.
+- Yes, especially in the technology category, where spikes in search interest were followed by higher sales.
 
 Do certain months have higher search interest and sales?
-→ Yes, Q4 (Oct–Dec) consistently showed higher interest and increased sales volume.
+- Yes, Q4 (Oct–Dec) consistently showed higher interest and increased sales volume.
 
 Which categories show alignment with search interest?
-→ Technology had the strongest correlation, followed by occasional spikes in Office Supplies.
+- Technology had the strongest correlation, followed by occasional spikes in Office Supplies.
+
 ---
 
 ### 3. Loan Data Visualization with Matplotlib and Seaborn 💵📊  
