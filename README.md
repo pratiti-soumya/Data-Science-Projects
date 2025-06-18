@@ -62,9 +62,9 @@ I conducted an exploratory and explanatory analysis of Prosper loan data to unde
 - I converted date columns to proper datetime format  
 - I visualized loan status distribution, interest rates, and loan amounts  
 - I investigated relationships such as:
-	-> Interest rate versus credit score by employment status
-	-> Interest rate versus employment status by loan status
-	-> A correlation heatmap showing weak correlation between income and borrower rates
+	- Interest rate versus credit score by employment status
+	- Interest rate versus employment status by loan status
+	- A correlation heatmap showing weak correlation between income and borrower rates
 
 #### Findings:
 - Credit scores have a strong influence on interest rates, with higher scores leading to lower borrowing costs  
